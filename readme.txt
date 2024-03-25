@@ -3,4 +3,4 @@ this is 2nd modify
 GPL
 stage
 track changes,create new branch and merge to branch
-dev branch
+dev branch is deleted, fix bug with issue-101 branch
